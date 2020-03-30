@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTemplate20192020</string>
+    <string name="action_settings">Settings</string>
+    <string name="back">back</string>
+    <string name="play">Play</string>
+    <string name="exit">Exit</string>
+    <string name="difficulty">Difficulty</string>
+</resources>
